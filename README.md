@@ -1,4 +1,3 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # STRESS INDUCER 🎯
 
@@ -13,88 +12,49 @@
 - Member 3:  Joseph Mathew- College Of Engineering Munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+We made a website that helps people get stressed by annoying popups and vintage games with element of suprise.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Some people are not happy while being at peace.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We made a website that helps people get stressed .
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML,JavaScript,CSS
+- VS Code,ChatGPT
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
 # Run
-[commands]
+It is website.You can access it with the provided link. 
 
 ### Project Documentation
 For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+link:https://drive.google.com/drive/folders/1_zldQbxeQriv5fUctcrzN1r5d5hgDPTi?usp=sharing
+The Above Link provide You Guy with Screenshots and Demo video of the project
+
+The Screenshots shows the mainmenu and different games made in the project
+1st Screenshot shows the Mainmenu
+2nd Screenshot shows the Tetris Game with a twist
+3rd Screenshot show a Snake game with inverted controls 
+
+The Video Demostrates the use of whole website all its features
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abhisek Suresh M K:Snake Game and Tetris
+- Radha Lakshmi M: Dino and Helicopter Game
+- Joseph Mathew: User Interface(Front End)
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
 
